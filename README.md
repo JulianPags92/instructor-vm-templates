@@ -1,0 +1,2 @@
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJulianPags92%2Finstructor-vm-templates%2Frefs%2Fheads%2Fmain%2Finstructor-vm-win2019.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJulianPags92%2Finstructor-vm-templates%2Frefs%2Fheads%2Fmain%2Finstructor-vm-ubuntu.json)
